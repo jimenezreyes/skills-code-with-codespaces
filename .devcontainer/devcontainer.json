@@ -9,6 +9,6 @@
       "openFiles": ["codespace.md"]
     }
   },
-  "postCreateCommand": "echo 'This is a post-create command'"
+  "postCreateCommand": "echo '# Writing code upon codespace creation!'  >> codespace.md"
 }
 
